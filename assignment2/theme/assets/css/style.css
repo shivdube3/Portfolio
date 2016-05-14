@@ -149,9 +149,9 @@ a:focus {
 .btn-theme:active,
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
-  color: #fff;
+  color: #00FFFF;
   background-color: #00b3fe;
-  border-color: #00b3fe;
+  border-color: #fff;
 }
 
 .dmbutton:hover,
@@ -232,7 +232,7 @@ a:focus {
 
 #headerwrap .img-responsive {
 	margin: 0 auto;
-	border-color: #00FFFF 30px;
+	border-color: #00FFFF 3px;
 }
 
 /* Services Wrap */
@@ -470,4 +470,7 @@ csmall2 {
 .share i {
 	padding-right: 15px;
 	font-size: 18px;
+}
+.btn {
+	background-color: #00FFFF;
 }
